@@ -1,0 +1,13 @@
+C:\Users\Adam Miranda\source\BallClock\BallClock\obj\Debug\netcoreapp3.1\BallClock.csprojAssemblyReference.cache
+C:\Users\Adam Miranda\source\BallClock\BallClock\obj\Debug\netcoreapp3.1\BallClock.AssemblyInfoInputs.cache
+C:\Users\Adam Miranda\source\BallClock\BallClock\obj\Debug\netcoreapp3.1\BallClock.AssemblyInfo.cs
+C:\Users\Adam Miranda\source\BallClock\BallClock\obj\Debug\netcoreapp3.1\BallClock.csproj.CoreCompileInputs.cache
+C:\Users\Adam Miranda\source\BallClock\BallClock\bin\Debug\netcoreapp3.1\BallClock.exe
+C:\Users\Adam Miranda\source\BallClock\BallClock\bin\Debug\netcoreapp3.1\BallClock.deps.json
+C:\Users\Adam Miranda\source\BallClock\BallClock\bin\Debug\netcoreapp3.1\BallClock.runtimeconfig.json
+C:\Users\Adam Miranda\source\BallClock\BallClock\bin\Debug\netcoreapp3.1\BallClock.runtimeconfig.dev.json
+C:\Users\Adam Miranda\source\BallClock\BallClock\bin\Debug\netcoreapp3.1\BallClock.dll
+C:\Users\Adam Miranda\source\BallClock\BallClock\bin\Debug\netcoreapp3.1\BallClock.pdb
+C:\Users\Adam Miranda\source\BallClock\BallClock\obj\Debug\netcoreapp3.1\BallClock.dll
+C:\Users\Adam Miranda\source\BallClock\BallClock\obj\Debug\netcoreapp3.1\BallClock.pdb
+C:\Users\Adam Miranda\source\BallClock\BallClock\obj\Debug\netcoreapp3.1\BallClock.genruntimeconfig.cache
